@@ -1,0 +1,12 @@
+
+
+h1 { background: #2A2A2A; width:50%; height: 50px; text-align: center; color: white; }
+p { font: 35px Arial, sans-serif; color: teal; text-align: center; }
+
+
+<div style="text-align: center;">
+<ul style="display: inline-block;">
+<li>pierwszy punkt</li>
+<li>drugi punkt</li>
+</ul>
+</div>
